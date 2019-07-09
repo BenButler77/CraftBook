@@ -56,6 +56,8 @@ public class BukkitJingleNotePlayer extends JingleNotePlayer {
                 return Sound.BLOCK_NOTE_FLUTE;
             case XYLOPHONE:
                 return Sound.BLOCK_NOTE_XYLOPHONE;
+            case GUITAR:
+                return Sound.BLOCK_NOTE_GUITAR;
             case PLING:
                 return Sound.BLOCK_NOTE_PLING;
             default:
